@@ -1,2 +1,2 @@
 # Confluence
-Going to perform launching of  confluence page, AutoLogin and Opening new tabs.
+Going to perform launch of confluence page, AutoLogin and Opening new tabs.
